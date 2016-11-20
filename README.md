@@ -20,13 +20,14 @@ Please Refer the excel in test-input folder
 <img src="https://github.com/RamThirupathy/MobiAuto/blob/master/script.png" width="80%"> 
 
 ### Step 2
-Install and Start the appium
+Install and Start the appium in local deskop/server.
+<a href="http://appium.io/">Check Appium</a>
 
 ### Script
 <img src="https://github.com/RamThirupathy/MobiAuto/blob/master/Appium.png" width="80%"> 
 
 ### Step 3
-Run the console tool to start automation.
+Run the console application to start automation.
 
 Contributions
 -------
