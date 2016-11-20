@@ -21,7 +21,7 @@ Please Refer the excel in test-input folder
 
 ### Step 2
 Install and Start the appium in local deskop/server.
-<a href="http://appium.io/">Check Appium</a>
+<a href="http://appium.io/" target="_blank">Check Appium</a>
 
 ### Script
 <img src="https://github.com/RamThirupathy/MobiAuto/blob/master/Appium.png" width="80%"> 
