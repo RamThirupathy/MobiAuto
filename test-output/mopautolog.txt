@@ -1,0 +1,15 @@
+INFO    2016-11-20 22:47:57,371 [main] com.ramkt.mobiAuto.utils.Reporting  - ModuleTestController: Set up Start
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: workbook jxl.read.biff.WorkbookParser@604c442b path D:\mobsprint1\MobAuto\test-input\TestScript.xls
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: No Of Sheets 6
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Sheet name Environment
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Sheet name Events
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Sheet name Modules
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Sheet name Login
+INFO    2016-11-20 22:47:57,467 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Sheet name Sheet2
+INFO    2016-11-20 22:47:57,468 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Sheet name Sheet3
+INFO    2016-11-20 22:47:57,468 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Get Sheet Environment
+INFO    2016-11-20 22:47:57,469 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Get EnvironmentSheet jxl.read.biff.SheetImpl@5d7138f4
+INFO    2016-11-20 22:47:57,516 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Get Sheet Events
+INFO    2016-11-20 22:47:57,516 [main] com.ramkt.mobiAuto.utils.Reporting  - ScriptReader: Events Sheet jxl.read.biff.SheetImpl@4e5fe91a
+ERROR   2016-11-20 22:48:15,467 [main] com.ramkt.mobiAuto.utils.Reporting  - Unable to run test case, Please re-start Appium server.
+ERROR   2016-11-20 22:48:15,503 [main] com.ramkt.mobiAuto.utils.Reporting  - Exception occured, Please try again.
