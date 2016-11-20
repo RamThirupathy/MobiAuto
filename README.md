@@ -6,13 +6,15 @@ Generic automation tool to automate Android/iOS application using Appium
 2. Supply test script through excel
 
 # Action
-TAP,CLICK,SENDKEYS,SWIPE_RIGHT,SWIPE_LEFT,SCROLL,BACK,ZOOM,PINCH,WAIT,SCREENSHOT,
-PRINT,PLAY_VIDEO,REPEAT,SWIPE_SCREEN_LEFT,SWIPE_SCREEN_RIGHT;
+TAP,CLICK,SENDKEYS,SWIPE_RIGHT,</br>
+SWIPE_LEFT,SCROLL,BACK,ZOOM,PINCH,</br>
+WAIT,SCREENSHOT,PRINT,PLAY_VIDEO,REPEAT,</br>
+SWIPE_SCREEN_LEFT,SWIPE_SCREEN_RIGHT;
 
 
 ### Step 1
-Write simple test script in excel
-Refer the excel in test-input folder
+Write simple test script in excel.</br>
+Please Refer the excel in test-input folder
 
 ### Script
 <img src="https://github.com/RamThirupathy/MobiAuto/blob/master/script.png" width="80%"> 
